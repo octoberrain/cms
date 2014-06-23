@@ -1,24 +1,22 @@
 {
-    "name": "october/cms",
-    "type": "october-module",
-    "description": "CMS module for October CMS",
-    "homepage": "http://octobercms.com",
-    "keywords": ["october cms", "october", "cms"],
+    "name": "mejor/cms",
+    "description": "MejorCMS es un proyecto OpenSource en construcción, desarrollado por estudiantes y profesionales en el área de desarrollo, con el fin de compartir conocimientos , aprender y trabajar en equipo, a través de la comunidad. ",
+    "homepage": "http://mejorcms.com",
+    "keywords": ["mejor cms", "MejorCMS", "cms"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Alexey Bobkov",
-            "email": "aleksey.bobkov@gmail.com"
+            "name": "",
+            "email": ""
         },
         {
-            "name": "Samuel Georges",
-            "email": "daftspunky@gmail.com"
+            "name": "",
+            "email": ""
         }
     ],
     "require": {
         "php": ">=5.3.0",
-        "october/rain": "dev-master",
-        "composer/installers": "~1.0"
+       
     },
     "autoload": {
         "psr-0": {
